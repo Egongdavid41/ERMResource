@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: rgb(242, 247, 242);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 200px;
+    line-height: 3.6m;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: rgb(15, 14, 14);
+    color: white;
+
+    border-right: 5px rgb(149, 133, 241) solid; 
+    border-left: 5px rgb(127, 138, 207) solid;
+    border-top: 5px rgb(132, 132, 192) solid;
+    border-bottom: 5px rgb(146, 146, 209) solid;
+   border-top-style: dotted;
+
+   padding-top: 10px;
+   padding-bottom: 20;
+   padding-right: 20px;
+   ;
+   padding-left: 20px;
+}
+
+.box-1 h1{
+    font-family: tahoma; 
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+
+}
+
+.box-2{
+   border: 3px dotted;
+   padding: 10px;
+   margin: 20px 0;
+}
